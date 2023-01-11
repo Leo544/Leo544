@@ -11,14 +11,6 @@
     <a href="https://www.linkedin.com/in/leonardo-miguel-mejia-perez-838649227/" target="_blank">
         <img src="https://img.shields.io/badge/Leonardo%20Miguel%20Mejia%20Perez-Linkedin-informational" alt="Linkedin">
     </a>
-
-    <a href="https://t.me/LeonardoMEjia096" target="_blank">
-        <img src="https://img.shields.io/badge/-Telegram-blue" alt="Telegram">
-    </a>
-
-    <a href="mailto:lmejiaperez02@gmail.com?subject=Oferta%20laboral&body=Vimos%20tu%20pagina%20web%20y%20nos%20interesar%C3%ADa%20contactarte" target="_blank">
-        <img src="https://img.shields.io/badge/-Gmail-red" alt="Gmail">
-    </a>
 </div>
 
 <!-- ACERCA DE MI -->
@@ -26,7 +18,7 @@
 
 ### 💻 Acerca de mí
 
-    » 🌎💻 Mi página web [https://leonardo-mp-web.vercel.app/] (Leonardo MP)
+    » 🌎💻 Mi página web [https://leonardo-mp-web.vercel.app/](Leonardo MP)
     » 📚🎮 Usar el tiempo libre para conocer y mejorar en temas de desarrollo y disfrutar de algún buen videojuego.
     » 💪🏼🌎 Desarrollo y Diseño Web
     » 🎼📽️ Descubrir nueva música y películas.
