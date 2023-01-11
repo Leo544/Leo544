@@ -11,6 +11,10 @@
     <a href="https://www.linkedin.com/in/leonardo-miguel-mejia-perez-838649227/" target="_blank">
         <img src="https://img.shields.io/badge/Leonardo%20Miguel%20Mejia%20Perez-Linkedin-informational" alt="Linkedin">
     </a>
+    
+        <a href="" target="_blank">
+        <img src="[https://img.shields.io/badge/Leonardo%20Miguel%20Mejia%20Perez-Linkedin-informational](https://img.shields.io/badge/lmejiaperez02%40gmail.com-Gmail-red)" alt="Gmail">
+        </a>
 </div>
 
 <!-- ACERCA DE MI -->
