@@ -19,7 +19,6 @@
 
 ### 💻 Acerca de mí
 
-    » 🌎💻 Mi página web [https://leonardo-mp-web.vercel.app/](Leonardo MP)
     » 📚🎮 Usar el tiempo libre para conocer y mejorar en temas de desarrollo y disfrutar de algún buen videojuego.
     » 💪🏼🌎 Desarrollo y Diseño Web
     » 🎼📽️ Descubrir nueva música y películas.
